@@ -1,0 +1,17 @@
+{
+    "num_of_transformations": 100,
+    "min_scale": 0.90,
+    "max_scale": 1.10,
+    "min_rotation": -180.0,
+    "max_rotation":  180.0,
+    "min_translation_x": -10.0,
+    "max_translation_x": 10.0,
+    "min_translation_y": -10.0,
+    "max_translation_y": 10.0,
+    "area_open": 100,
+    "area_close": 30,
+    "mask_erosion_radius": 23.0,
+    "homologous_radius": 20.0,
+    "close_rec": 1.5,
+    "asf_close_open": 15.0
+}
